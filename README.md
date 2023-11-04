@@ -48,3 +48,6 @@ The settlement of *La Habana* (English: *Havana*) was named *San Cristóbal de l
 
 * Changed **Leogane** to **Hôpital**.<br>
 The Taíno settlement of Yaguana was not fully occupied by the French or renamed *Léogâne* until 1691<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/L%C3%A9og%C3%A2ne)]</sup>, making the appearance of Léogâne anachronistic to the game's timeline (1600–1680). However, the settlement of *Hôpital* was established in c. 1650 in proximity to where Léogâne is located<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Port-au-Prince)]</sup>.
+
+* Changed **Maracaibo** to **Nueva Zamora de Maracaibo**.<br>
+The settlement's name was originally *Maracaibo* when it was founded in 1569, but it was renamed *Nueva Zamora de Maracaibo* when it was re-founded in 1574, after being destroyed by the Anũ (Paraujano) in 1572<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Maracaibo)]</sup>. The settlement may not have been renamed *Maracaibo* until after Venezuelan Independence of 1811<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Venezuelan_Independence)]</sup> (which Maracaibo did not join until 1821)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Maracaibo)]</sup>.
