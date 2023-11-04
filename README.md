@@ -2,6 +2,8 @@
 
 Copyright © 2023 Jessie Kirk.
 
+This is a mod for *Sid Meier's PIRATES! (2004)* for Windows PC.
+
 *Sid Meier's PIRATES!* is a Trademark ™, Registered Trademark ®, and/or Copyright © 1987 Sid Meier and/or [MicroProse](https://www.microprose.com/); and a Trademark ™, Registered Trademark ®, and/or Copyright © 2004–2008, 2010–2012 [Firaxis Games](https://firaxis.com/), [Atari Interactive Inc.](https://atari.com/), [2K](https://2k.com/), [Feral Interactive](https://www.feralinteractive.com/) and/or Oasys Mobile.
 
 This file is part of JAM: A Sid Meier's PIRATES Mod ("JAM").
