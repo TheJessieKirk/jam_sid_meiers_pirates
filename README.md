@@ -83,3 +83,6 @@ The Archaic Spanish rendering of *Puerto Bello* is *Portobelo*<sup>[[English Wik
 
 * Changed **Puerto Principe** to **Santa Maria del Puerto Principe**.<br>
 The full name of *Puerto Principe* was *Santa María del Puerto del Príncipe*, which was the settlement's name from when it was founded in 1514 until it was renamed *Camagüey* after Cuban independence in 1898<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Camag%C3%BCey)]</sup>.
+
+* Changed **San Juan** to **Puerto Rico de San Juan Bautista**.<br>
+Confusingly, *San Juan Bautista* was the European name for the island since 1493, and the settlement itself was referred to variously as *Puerto Rico* (the name of the bay the settlement was in) and *San Juan* (the name of the entire island) from its founding in 1511. It was formally named **Puerto Rico de San Juan Bautista* in 1521. This was commonly abbreviated to *San Juan*, and all this led to such confusion that by 1746 the names of the settlement and island had reversed (with the island named *Puerto Rico* and the settlement's formal name mapped as *Puerto Rico de Puerto Rico*, but usually referred to as *San Juan*. This was the settlement's *de facto* name by the American occupation of 1898<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/San_Juan%2C_Puerto_Rico)]</sup>.
