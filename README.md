@@ -95,3 +95,6 @@ The full name of *Santiago* is *Santiago de Cuba*, which has been the settlement
 
 * Changed **St. Augustine** to **San Agustín**.<br>
 The settlement of *St. Augustine* was named *San Agustín* when it was settled by the Spanish in 1565. It was only renamed *St. Augustine* following the British occupation in 1764<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/St._Augustine%2C_Florida)]</sup>.
+
+* Changed **St. Eustatius** to **Oranjestad**.<br>
+*St. Eustatius* was the European name for the island since ‌1595, but it was renamed *Nieuw Zeeland* c.1630 before being restored to *Sint Eustatius* some time shortly afterwards<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Sint_Eustatius)]</sup>, but the settlement is called *Oranjestad*<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Oranjestad,_Sint_Eustatius)]</sup>, a name it has *probably* had since the area was settled by the Dutch in 1636 over the ruins of the previous English and French settlements of 1625 and 1629 (the fort was named *Fort Oranje*, the bay *Oranje Baai* and the fort's village became *Oranjestad* (English: *Orange Town*))<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Fort_Oranje_(Sint_Eustatius)]</sup>.
