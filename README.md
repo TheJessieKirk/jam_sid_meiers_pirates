@@ -29,7 +29,10 @@ The full name of *Caracas* is *Santiago de León de Caracas*, which has been the
 The sixth letter of the settlement's name is accented (á)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Cuman%C3%A1)]</sup>.
 
 * Changed **Florida Keys** to **Cayo Hueso**.<br>
-*Florida Keys* is the name of the archipelago, but the main focus of European settlement from c. 1514 has been around *Key West*<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Florida_Keys)]</sup>, the Spanish name of which is Cayo Hueso<sup>[[Spanish Wikipedia](https://es.wikipedia.org/wiki/Cayo_Hueso)]</sup>. The English name *Key West* would not have been widely used until the British occupation of Florida in 1763<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Key_West)]</sup>.
+*Florida Keys* is the name of the archipelago, but the main focus of European settlement from c. 1514 has been around *Key West*<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Florida_Keys)]</sup>, the Spanish name of which is Cayo Hueso<sup>[[Spanish Wikipedia](https://es.wikipedia.org/wiki/Cayo_Hueso)]</sup>. The English name *Key West* would not have been widely used until the British occupation of 1763<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Key_West)]</sup>.
 
 * Changed **Gibraltar** to **San Antonio de Gibraltar**.<br>
-The settlement of *Gibraltar* was named *San Antonio de Gibraltar* when it was founded in 1592<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Gibraltar,_Venezuela)]</sup>. It may have only officially been renamed *Gibraltar* after Venezuelan Independence in 1811<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Venezuelan_Independence)]</sup>
+The settlement of *Gibraltar* was named *San Antonio de Gibraltar* when it was founded in 1592<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Gibraltar,_Venezuela)]</sup>. It may have only officially been renamed *Gibraltar* after Venezuelan Independence of 1811<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Venezuelan_Independence)]</sup>
+
+* Changed **Gran Granada** to **Granada**.<br>
+While the settlement is sometimes known as *La Gran Granada*, the European name of the settlement has been *Grenada* since the Spanish occupation in 1524<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Granada,_Nicaragua)]</sup>.
