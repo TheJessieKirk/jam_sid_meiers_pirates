@@ -137,6 +137,9 @@ The Nahuatl name for *Aztec* is *Nahuatl*<sup>[[English Wikipedia](https://en.wi
 * Changed **Inca** to **Tawantinsuyu**.<br>
 The Runasimi name for *Inca* is *Tawantinsuyu*<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Inca_Empire)]</sup>. Using Native American names for themselves seems more respectful.
 
+* Changed **Jamaica Channel** to **St. James Channel**.<br>
+The first European name for the island of *Jamaica* was *Santiago* since 1494. The island was not renamed *Jamaica* until 1655<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Jamaica)]</sup>. So I assume the channel would have been called *Canal de Santiago* (or *St. James Channel* in English).
+
 * Changed **Mission** to **Reduction**.<br>
 Jesuit colonial settlements in the Americas were called *reductions* rather than *missions*<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Reductions)]</sup>.
 
