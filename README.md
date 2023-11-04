@@ -39,3 +39,6 @@ While the settlement is sometimes known as *La Gran Granada*, the European name 
 
 * Changed **Grand Bahama** to **West End**.<br>
 *Bahama* was the Lucayan name for the island from 500–800 AD to before c. 1520, and it was not renamed *Grand Bahama* until c. 1670<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/The_Bahamas)]</sup>, but the settlement is called *West End*, and has been the island's capital since 1632<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/West_End,_Bahamas)]</sup>.
+
+* Changed **Guadeloupe** to **Basse-Terre**.<br>
+*Santa María de Guadalupe* has been the European name for the island since 1493, but the settlement is called *Basse-Terre*, and has been the island's main focus of European settlement since c. 1635<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Guadeloupe)]</sup>.
