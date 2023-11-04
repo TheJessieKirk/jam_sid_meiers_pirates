@@ -66,3 +66,6 @@ The original European name of the island was *San Martín* from 1498, until it w
 
 * Changed **Nassau** to **Charles Town**.<br>
 The settlement of *Nassau* was named *Charles Town* when it was founded in 1670. It was only renamed *Nassau* in 1695<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Nassau,_Bahamas)]</sup>.
+
+* Changed **Panama** to **Panamá**.<br>
+The sixth letter of the settlement's name is accented (á)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Panama_City)]</sup>.
