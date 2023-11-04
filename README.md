@@ -77,3 +77,6 @@ The eighth letter of the settlement's name is circumflexed (â)<sup>[[English Wi
 
 * Changed **Port Royal** to **Cagway**.<br>
 The area/settlement of *Port Royal* was named *Caguay* (English: *Cagway*) when it was used or possibly settled by the Taíno in c. 600 AD, and retained its name after the Spanish occupation of 1509 and the English occupation of 1655. It was only renamed *Port Royal* in c. 1692<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Port_Royal)]</sup>.
+
+* Changed **Puerto Bello** to **Portobelo**.<br>
+The Archaic Spanish rendering of *Puerto Bello* is *Portobelo*<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Portobelo,_Col%C3%B3n)]</sup>.
