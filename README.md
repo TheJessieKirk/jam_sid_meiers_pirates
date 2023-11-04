@@ -14,6 +14,10 @@ JAM is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
 
 You should have received a copy of the GNU General Public License along with JAM. If not, see https://www.gnu.org/licenses/.
 
+## Nationality Names
+* Changed **Indian** to **Native American**.<br>
+*Native American* is more respectful to the indigenous people of the Americas than *Indian*<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas)]</sup>.
+
 ## Settlement Names
 ***A Note on Archaic Spanish**: the names of many 16th-century Spanish settlements were originally written in Archaic Spanish (as Old Spanish transitioned to Modern Spanish). Archaic (ergo, authentic) spellings have been used when sources are available, but so far this has been done only once with the rendering of "Puerto Bello" as "Portobelo".*
 
@@ -115,7 +119,7 @@ The settlement of *Villahermosa* was named *Villa Carmona* from when it was foun
 
 ## Other Names
 * Changed **Mission** to **Reduction**.<br>
-Jesuit colonial settlements in the Americas were called "reductions"<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Reductions)]</sup>.
+Jesuit colonial settlements in the Americas were called *reductions* rather than *missions*<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Reductions)]</sup>.
 
 * Changed **New Andalusia** to **Nueva Andalucía**.<br>
 The Spanish name for *New Andalusia* is *Nueva Andalucía*<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/New_Andalusia_Province)]</sup>.
