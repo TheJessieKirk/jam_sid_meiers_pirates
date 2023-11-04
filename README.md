@@ -30,3 +30,6 @@ The sixth letter of the settlement's name is accented (á)<sup>[[English Wikiped
 
 * Changed **Florida Keys** to **Cayo Hueso**.<br>
 *Florida Keys* is the name of the archipelago, but the main focus of European settlement from c. 1514 has been around *Key West*<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Florida_Keys)]</sup>, the Spanish name of which is Cayo Hueso<sup>[[Spanish Wikipedia](https://es.wikipedia.org/wiki/Cayo_Hueso)]</sup>. The English name *Key West* would not have been widely used until the British occupation of Florida in 1763<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Key_West)]</sup>.
+
+* Changed **Gibraltar** to **San Antonio de Gibraltar**.<br>
+The settlement of *Gibraltar* was named *San Antonio de Gibraltar* when it was founded in 1592<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Gibraltar,_Venezuela)]</sup>. It may have only officially been renamed *Gibraltar* after Venezuelan Independence in 1811<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Venezuelan_Independence)]</sup>
