@@ -121,6 +121,8 @@ The full name of *Veracruz* was **La Villa Rica de la Vera Cruz*, which was the 
 The settlement of *Villahermosa* was named *Villa Carmona* from when it was founded in 1564, until it was renamed *San Juan Bautista* in 1565, then renamed again to *Villa Felipe II* c. 1565. then renamed a third time to *Villa Hermosa de San Juan Bautista* in 1598, then a fourth time to *San Juan de Villahermosa* in 1604. a fifth time to *Villahermosa del Puerto* in 1792, a sixth time to *San Juan Bautista De Villahermosa* in 1811, a seventh time to *San Juan Bautista de Tabasco* in 1826, and finally to *Villahermosa* in 1916<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Villahermosa)]</sup>.
 
 ## Other Names
+* Corrected capitalisation of **Copper Plating** and **Fine-grain Powder**.
+
 * Changed **Mission** to **Reduction**.<br>
 Jesuit colonial settlements in the Americas were called *reductions* rather than *missions*<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Reductions)]</sup>.
 
