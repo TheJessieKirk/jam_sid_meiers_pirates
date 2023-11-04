@@ -13,6 +13,8 @@ JAM is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
 You should have received a copy of the GNU General Public License along with JAM. If not, see https://www.gnu.org/licenses/.
 
 ## Settlement Names
+***A Note on Archaic Spanish**: the names of many 16th-century Spanish cities were originally written in Archaic Spanish (as Old Spanish transitioned to Modern Spanish). Archaic (ergo, authentic) spellings have been used when sources are available, but so far this has been done only once with the rendering of "Puerto Bello" as "Portobelo".*
+
 * Changed **Antigua** to **St. John's**.<br>
 *Antigua* has been the European name for the island since 1493<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/History_of_Antigua_and_Barbuda)]</sup>, but the settlement is called *St. John's*, and has been the island's capital since 1632<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/St._John%27s,_Antigua_and_Barbuda))]</sup>.
 
