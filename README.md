@@ -92,3 +92,6 @@ The island of *Santa Catalina* was fortified by the Spanish following their occu
 
 * Changed **Santiago** to **Santiago de Cuba**.<br>
 The full name of *Santiago* is *Santiago de Cuba*, which has been the settlement's name since it was founded in 1515<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Santiago_de_Cuba)]</sup>.
+
+* Changed **St. Augustine** to **San Agustín**.<br>
+The settlement of *St. Augustine* was named *San Agustín* when it was settled by the Spanish in 1565. It was only renamed *St. Augustine* following the British occupation in 1764<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/St._Augustine%2C_Florida)]</sup>.
