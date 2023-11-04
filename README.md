@@ -18,3 +18,6 @@ You should have received a copy of the GNU General Public License along with JAM
 
 * Changed **Barbados** to **St. Michael**.<br>
 *Barbados* has been the name for the island since before 1519<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Barbados)]</sup>, but the settlement of *Bridgetown* has been the island's capital since 1628. *Bridgetown* was initially called *Indian Bridge*, then it was renamed *The Town of St. Michael* c. 1630. The name *Bridgetown* may not have become official until the 1800s<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Bridgetown)]</sup>.
+
+* Changed **Campeche** to **San Francisco de Campeche**.<br>
+*Kaan Peech* (Spanish: *Campeche*) is the former Mayan nation in which the settlement is built in<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Can_Pech)]</sup>, but the settlement has been called *San Francisco de Campeche* since it's founding in 1540<sup>[[Englsh Wikipedia](https://en.wikipedia.org/wiki/Campeche_(city)]</sup>.
