@@ -128,6 +128,12 @@ The settlement of *Villahermosa* was named *Villa Carmona* from when it was foun
 ## Other Names
 * Corrected capitalisation of **Copper Plating** and **Fine-grain Powder**.
 
+* Changed **Aztec** to **Nahuatl**.<br>
+The Nahuatl name for *Aztec* is *Nahuatl*<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Nahuatl)]</sup>. Using Native American names for themselves seems more respectful.
+
+* Changed **Inca** to **Tawantinsuyu**.<br>
+The Runasimi name for *Inca* is *Tawantinsuyu*<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Inca_Empire)]</sup>. Using Native American names for themselves seems more respectful.
+
 * Changed **Mission** to **Reduction**.<br>
 Jesuit colonial settlements in the Americas were called *reductions* rather than *missions*<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Reductions)]</sup>.
 
