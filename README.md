@@ -17,7 +17,7 @@ You should have received a copy of the GNU General Public License along with JAM
 *Antigua* has been the European name for the island since 1493<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/History_of_Antigua_and_Barbuda)]</sup>, but the settlement is called *St. John's*, and has been the island's capital since 1632<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/St._John%27s,_Antigua_and_Barbuda))]</sup>.
 
 * Changed **Barbados** to **St. Michael**.<br>
-*Barbados* has been the European name for the island since before 1519<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Barbados)]</sup>, but the settlement of *Bridgetown* has been the island's capital since 1628. *Bridgetown* was initially called *Indian Bridge* [sic], then it was renamed *The Town of St. Michael* c. 1630. The name *Bridgetown* may not have become official until the 1800s<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Bridgetown)]</sup>.
+*Barbados* has been the European name for the island since before 1519<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Barbados)]</sup>, but the settlement of *Bridgetown* has been the island's capital since 1628. *Bridgetown* was initially called *Indian [sic] Bridge*, then it was renamed *The Town of St. Michael* c. 1630. The name *Bridgetown* may not have become official until the 1800s<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Bridgetown)]</sup>.
 
 * Changed **Campeche** to **San Francisco de Campeche**.<br>
 *Kaan Peech* (Spanish: *Campeche*) is the former Mayan nation in which the settlement is built in<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Can_Pech)]</sup>, but the settlement has been called *San Francisco de Campeche* since it's founding in 1540<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Campeche_(city))</sup>.
@@ -36,3 +36,6 @@ The settlement of *Gibraltar* was named *San Antonio de Gibraltar* when it was f
 
 * Changed **Gran Granada** to **Granada**.<br>
 While the settlement is sometimes known as *La Gran Granada*, the European name of the settlement has been *Grenada* since the Spanish occupation of 1524<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Granada,_Nicaragua)]</sup>.
+
+* Changed **Grand Bahama** to **West End**.<br>
+*Bahama* was the Lucayan name for the island from 500–800 AD to before c. 1520, and it was not renamed *Grand Bahama* until c. 1670<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/The_Bahamas)]</sup>, but the settlement is called *West End*, and has been the island's capital since 1632<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/West_End,_Bahamas)]</sup>.
