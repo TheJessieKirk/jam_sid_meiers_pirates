@@ -89,3 +89,6 @@ Confusingly, *San Juan Bautista* was the European name for the island since 1493
 
 * Changed **Santa Catalina** to **Isla de Providencia**.<br>
 The island of *Santa Catalina* was fortified by the Spanish following their occupation of *Isla de Providencia* in 1641. However, *Isla de Providencia* was the main focus of European settlement since the English colony of *Old Providence* in 1629 (and its aforementioned 1641 occupation) in proximity to where *Santa Catalina* is located<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Providencia_Island,_Colombia]</sup>.
+
+* Changed **Santiago** to **Santiago de Cuba**.<br>
+The full name of *Santiago* is *Santiago de Cuba*, which has been the settlement's name since it was founded in 1515<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Santiago_de_Cuba)]</sup>.
