@@ -109,3 +109,6 @@ The settlement of *St. Augustine* was named *San Agustín* when it was settled b
 
 * Changed **Vera Cruz** to **La Villa Rica de la Vera Cruz**.<br>
 The full name of *Veracruz* was **La Villa Rica de la Vera Cruz*, which was the settlement's name since it was founded in 1519<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Caracas)]</sup>. It may have only been renamed *Veracruz* after Mexican independence in 1821<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Mexican_War_of_Independence)]</sup>.
+
+* Changed **Villa Hermosa** to **San Juan de Villahermosa**.<br>
+The settlement of *Villahermosa* was named *Villa Carmona* from when it was founded in 1564, until it was renamed *San Juan Bautista* in 1565, then renamed again to *Villa Felipe II* c. 1565. then renamed a third time to *Villa Hermosa de San Juan Bautista* in 1598, then a fourth time to *San Juan de Villahermosa* in 1604. a fifth time to *Villahermosa del Puerto* in 1792, a sixth time to *San Juan Bautista De Villahermosa* in 1811, a seventh time to *San Juan Bautista de Tabasco* in 1826, and finally to *Villahermosa* in 1916<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Villahermosa)]</sup>.
