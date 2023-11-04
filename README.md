@@ -71,3 +71,6 @@ The settlement of *Nassau* was named *Charles Town* when it was founded in 1670.
 
 * Changed **Panama** to **Panamá**.<br>
 The sixth letter of the settlement's name is accented (á)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Panama_City)]</sup>.
+
+* Changed **Petit-Goave** to **Petit-Goâve**.<br>
+The eighth letter of the settlement's name is circumflexed (â)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Petit-Go%C3%A2ve)]</sup>.
