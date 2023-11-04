@@ -56,4 +56,7 @@ The settlement's name was originally *Maracaibo* when it was founded in 1569, bu
 *Isla de Margarita* has been the European name for the island since 1498<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Margarita_Island)]</sup>, but the settlement was called *Espíritu Santo* before 1562. It was renamed *La Asunción* when it was re-founded in 1566, after being destroyed by the English in 1565. It has been the island's main focus of settlement since then<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/La_Asunci%C3%B3n)]</sup>.
 
 * Changed **Martinique** to **Saint-Pierre**.<br>
-*Martinique* has been the European name for the island since 1502<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Martinique)]</sup>, but the settlement is called *Saint-Pierre*, and was the island's capital from 1635–1902<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Saint-Pierre,_Martinique)]</sup>.
+*Martinique* has been the European name for the island since 1502<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Martinique)]</sup>, but the settlement is called *Saint-Pierre*, and was the island's capital from it's founding in 1635 until it was destroyed by a volcano in 1902<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Saint-Pierre,_Martinique)]</sup>.
+
+* Changed **Montserrat** to **Plymouth**.<br>
+*Santa María de Montserrate* has been the European name for the island since 1493<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Montserrat)]</sup>, but the settlement was *Plymouth*, which was the island's capital from it's founding in 1636 until it was destroyed by a volcano in 1996<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Plymouth,_Montserrat)]</sup>.
