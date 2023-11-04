@@ -128,6 +128,9 @@ The settlement of *Villahermosa* was named *Villa Carmona* from when it was foun
 ## Other Names
 * Corrected capitalisation of **Copper Plating** and **Fine-grain Powder**.
 
+* Changed **Pirates** to **Pirate Swordsmen** and **Buccaneers** to **Pirate Musketeers**.<br>
+A *buccaneer* was a privateer operating in the Caribbean Sea from c. 1600–c. 1800, rather than a pirate (although many buccaneers became pirates and still used the term). Also, the term had nothing to do with being armed with a musket<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Buccaneer)]</sup>.
+
 * Changed **Aztec** to **Nahuatl**.<br>
 The Nahuatl name for *Aztec* is *Nahuatl*<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Nahuatl)]</sup>. Using Native American names for themselves seems more respectful.
 
