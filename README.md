@@ -64,7 +64,7 @@ The settlement's name was originally *Maracaibo* when it was founded in 1569, bu
 *Santa María de Montserrate* has been the European name for the island since 1493<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Montserrat)]</sup>, but the settlement was called *Plymouth*, which was the island's capital from its founding in 1636 until it was destroyed by a volcano in 1996<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Plymouth,_Montserrat)]</sup>.
 
 * Changed **Nevis** to **Jamestown**.<br>
-The original European name of the island was *San Martín* from 1498, until it was renamed *Nuestra Señora de las Nieves* (English: Nevis) c. 1500<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Nevis)]</sup>, but the settlement was called *Jamestown*, which was the island's capital from its founding in 1628 until it was destroyed by a tidal wave in 1680<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Charlestown,_Nevis)]</sup>.
+The original European name of the island was *San Martín* from 1498, until it was renamed *Nuestra Señora de las Nieves* (English: *Nevis*) c. 1500<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Nevis)]</sup>, but the settlement was called *Jamestown*, which was the island's capital from its founding in 1628 until it was destroyed by a tidal wave in 1680<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Charlestown,_Nevis)]</sup>.
 
 * Changed **Nassau** to **Charles Town**.<br>
 The settlement of *Nassau* was named *Charles Town* when it was founded in 1670. It was only renamed *Nassau* in 1695<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Nassau,_Bahamas)]</sup>.
@@ -74,3 +74,6 @@ The sixth letter of the settlement's name is accented (á)<sup>[[English Wikiped
 
 * Changed **Petit-Goave** to **Petit-Goâve**.<br>
 The eighth letter of the settlement's name is circumflexed (â)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Petit-Go%C3%A2ve)]</sup>.
+
+* Changed **Port Royal** to **Cagway**.<br>
+The area/settlement of *Port Royal* was named *Caguay* (English: *Cagway*) when it was used or possibly settled by the Taíno in c. 600 AD, and retained its name after the Spanish occupation of 1509 and the English occupation of 1655. It was only renamed *Port Royal* in c. 1692<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Port_Royal)]</sup>.
