@@ -24,3 +24,6 @@ You should have received a copy of the GNU General Public License along with JAM
 
 * Changed **Caracas** to **Santiago de León de Caracas**.<br>
 The full name of *Caracas* is *Santiago de León de Caracas*, which has been the settlement's name since it was founded in 1567<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Caracas)]</sup>.
+
+* Changed **Cumana** to **Cumaná**.<br>
+The sixth letter of the settlement's name is accented (á)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Cuman%C3%A1)]</sup>.
