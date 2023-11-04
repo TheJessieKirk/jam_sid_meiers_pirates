@@ -15,6 +15,9 @@ JAM is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
 You should have received a copy of the GNU General Public License along with JAM. If not, see https://www.gnu.org/licenses/.
 
 ## Nationality Names
+* Changed **Holland** to **The Netherlands**.<br>
+The Dutch nation was the *Republiek der Zeven Verenigde Nederlanden* (English: *Republic of the Seven United Netherlands*), which existed from 1579–1795<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Dutch_Republic)]</sup>. *Holland* was the dominant province of the Dutch Republic, but was a smaller area within it, rather than an interchangeable name for the entire state<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Holland)]</sup>.
+
 * Changed **Indian** to **Native American**.<br>
 *Native American* is more respectful to the indigenous peoples of the Americas than *Indian*<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas)]</sup>.
 
