@@ -14,6 +14,11 @@ JAM is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
 
 You should have received a copy of the GNU General Public License along with JAM. If not, see https://www.gnu.org/licenses/.
 
+## Items
+* The **One-shot Pistol** is now called a **Flintlock Pistol**, and the description has been changed from "this new-fangled weapon is useful during close combat" to "this gunpowder weapon is useful during close combat".<br>
+While matchlock revolvers did exist as early as the 15th century, they were exceptionally rare until the 19th century<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Revolver)]</sup>, so almost all pistols during the game's timeline of 1600–1680 were "single-shot", making the distinction unnecessary.<br>
+While flintlock pistols were becoming more common amongst Europeans from c. 1600, they were available to private individuals during the previous century and are thus not "new-fangled"<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Flintlock)]], and Europeans were familiar with pistols in general from c. 1470[[English Wikipedia](https://en.wikipedia.org/wiki/Pistol)]</sup>.
+
 ## Nationality Names
 * Changed **Holland** to **The Netherlands**.<br>
 The Dutch nation was the *Republiek der Zeven Verenigde Nederlanden* (English: *Republic of the Seven United Netherlands*), which existed from 1579–1795<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Dutch_Republic)]</sup>. *Holland* was the dominant province of the Dutch Republic, but was a smaller area within it, rather than an interchangeable name for the entire state<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Holland)]</sup>.
