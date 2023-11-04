@@ -34,7 +34,7 @@ The sixth letter of the settlement's name is accented (á)<sup>[[English Wikiped
 *Florida Keys* is the name of the archipelago, but the main focus of European settlement from c. 1514 has been around *Key West*<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Florida_Keys)]</sup>, the Spanish name of which is Cayo Hueso<sup>[[Spanish Wikipedia](https://es.wikipedia.org/wiki/Cayo_Hueso)]</sup>. The English name *Key West* would not have been widely used until the British occupation of 1763<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Key_West)]</sup>.
 
 * Changed **Gibraltar** to **San Antonio de Gibraltar**.<br>
-The settlement of *Gibraltar* was named *San Antonio de Gibraltar* when it was founded in 1592<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Gibraltar,_Venezuela)]</sup>. It may have only been renamed *Gibraltar* after Venezuelan Independence of 1811<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Venezuelan_Independence)]</sup>
+The settlement of *Gibraltar* was named *San Antonio de Gibraltar* when it was founded in 1592<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Gibraltar,_Venezuela)]</sup>. It may have only been renamed *Gibraltar* after Venezuelan independence in 1811<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Venezuelan_Independence)]</sup>
 
 * Changed **Gran Granada** to **Granada**.<br>
 While the settlement is sometimes known as *La Gran Granada*, the Nicaraguan Native American settlement was renamed *Grenada* since the Spanish occupation of 1524<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Granada,_Nicaragua)]</sup>.
@@ -46,13 +46,13 @@ While the settlement is sometimes known as *La Gran Granada*, the Nicaraguan Nat
 *Santa María de Guadalupe* has been the European name for the island since 1493, but the settlement is called *Basse-Terre*, and has been the island's main focus of European settlement since c. 1635<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Guadeloupe)]</sup>.
 
 * Changed **Havana** to **San Cristóbal de la Habana**.<br>
-The settlement of *La Habana* (English: *Havana*) was named *San Cristóbal de la Habana* when it was founded in 1514<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Havana)]</sup>. It may have only been renamed *La Habana* after Cuban Independence in 1902<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Cuban_War_of_Independence)]</sup>.
+The settlement of *La Habana* (English: *Havana*) was named *San Cristóbal de la Habana* when it was founded in 1514<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Havana)]</sup>. It may have only been renamed *La Habana* after Cuban independence in 1902<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Cuban_War_of_Independence)]</sup>.
 
 * Changed **Leogane** to **Hôpital**.<br>
 The Taíno settlement of Yaguana was not fully occupied by the French or renamed *Léogâne* until 1691<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/L%C3%A9og%C3%A2ne)]</sup>, making the appearance of Léogâne anachronistic to the game's timeline (1600–1680). However, the settlement of *Hôpital* was established in c. 1650 in proximity to where Léogâne is located<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Port-au-Prince)]</sup>.
 
 * Changed **Maracaibo** to **Nueva Zamora de Maracaibo**.<br>
-The settlement's name was originally *Maracaibo* when it was founded in 1569, but it was renamed *Nueva Zamora de Maracaibo* when it was re-founded in 1574, after being destroyed by the Anũ (Paraujano) in 1572<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Maracaibo)]</sup>. The settlement may not have been renamed *Maracaibo* until after Venezuelan Independence of 1811<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Venezuelan_Independence)]</sup> (which Maracaibo did not join until 1821)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Maracaibo)]</sup>.
+The settlement's name was originally *Maracaibo* when it was founded in 1569, but it was renamed *Nueva Zamora de Maracaibo* when it was re-founded in 1574, after being destroyed by the Anũ (Paraujano) in 1572<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Maracaibo)]</sup>. The settlement may not have been renamed *Maracaibo* until after Venezuelan independence in 1811<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Venezuelan_Independence)]</sup> (which Maracaibo did not join until 1821)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Maracaibo)]</sup>.
 
 * Changed **Margarita** to **La Asunción**.<br>
 *Isla de Margarita* has been the European name for the island since 1498<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Margarita_Island)]</sup>, but the settlement was called *Espíritu Santo* before 1562. It was renamed *La Asunción* when it was re-founded in 1566, after being destroyed by the English in 1565. It has been the island's main focus of settlement since then<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/La_Asunci%C3%B3n)]</sup>.
@@ -80,3 +80,6 @@ The area/settlement of *Port Royal* was named *Caguay* (English: *Cagway*) when 
 
 * Changed **Puerto Bello** to **Portobelo**.<br>
 The Archaic Spanish rendering of *Puerto Bello* is *Portobelo*<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Portobelo,_Col%C3%B3n)]</sup>.
+
+* Changed **Puerto Principe** to **Santa Maria del Puerto Principe**.<br>
+The full name of *Puerto Principe* was *Santa María del Puerto del Príncipe*, which was the settlement's name since it was founded in 1514 until it was renamed *Camagüey* after Cuban independence in 1898<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Camag%C3%BCey)]</sup>.
