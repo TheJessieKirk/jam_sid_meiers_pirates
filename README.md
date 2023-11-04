@@ -16,7 +16,7 @@ You should have received a copy of the GNU General Public License along with JAM
 
 ## Nationality Names
 * Changed **Indian** to **Native American**.<br>
-*Native American* is more respectful to the indigenous people of the Americas than *Indian*<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas)]</sup>.
+*Native American* is more respectful to the indigenous peoples of the Americas than *Indian*<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Indigenous_peoples_of_the_Americas)]</sup>.
 
 ## Settlement Names
 ***A Note on Archaic Spanish**: the names of many 16th-century Spanish settlements were originally written in Archaic Spanish (as Old Spanish transitioned to Modern Spanish). Archaic (ergo, authentic) spellings have been used when sources are available, but so far this has been done only once with the rendering of "Puerto Bello" as "Portobelo".*
