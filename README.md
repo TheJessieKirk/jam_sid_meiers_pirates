@@ -32,7 +32,7 @@ The sixth letter of the settlement's name is accented (á)<sup>[[English Wikiped
 *Florida Keys* is the name of the archipelago, but the main focus of European settlement from c. 1514 has been around *Key West*<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Florida_Keys)]</sup>, the Spanish name of which is Cayo Hueso<sup>[[Spanish Wikipedia](https://es.wikipedia.org/wiki/Cayo_Hueso)]</sup>. The English name *Key West* would not have been widely used until the British occupation of 1763<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Key_West)]</sup>.
 
 * Changed **Gibraltar** to **San Antonio de Gibraltar**.<br>
-The settlement of *Gibraltar* was named *San Antonio de Gibraltar* when it was founded in 1592<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Gibraltar,_Venezuela)]</sup>. It may have only officially been renamed *Gibraltar* after the Venezuelan Independence of 1811<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Venezuelan_Independence)]</sup>
+The settlement of *Gibraltar* was named *San Antonio de Gibraltar* when it was founded in 1592<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Gibraltar,_Venezuela)]</sup>. It may have only officially been renamed *Gibraltar* after Venezuelan Independence of 1811<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Venezuelan_Independence)]</sup>
 
 * Changed **Gran Granada** to **Granada**.<br>
 While the settlement is sometimes known as *La Gran Granada*, the European name of the settlement has been *Grenada* since the Spanish occupation of 1524<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Granada,_Nicaragua)]</sup>.
@@ -42,3 +42,6 @@ While the settlement is sometimes known as *La Gran Granada*, the European name 
 
 * Changed **Guadeloupe** to **Basse-Terre**.<br>
 *Santa María de Guadalupe* has been the European name for the island since 1493, but the settlement is called *Basse-Terre*, and has been the island's main focus of European settlement since c. 1635<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Guadeloupe)]</sup>.
+
+* Changed **Havana** to **San Cristóbal de la Habana**.<br>
+The settlement of *La Habana* (English: *Havana*) was named *San Cristóbal de la Habana* when it was founded in 1514<sup>[[https://en.wikipedia.org/wiki/Havana]</sup>. It may have only officially been renamed *La Habana* after Cuban Independence in 1902<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Cuban_War_of_Independence)]</sup>.
