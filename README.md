@@ -37,7 +37,7 @@ The sixth letter of the settlement's name is accented (á)<sup>[[English Wikiped
 The settlement of *Gibraltar* was named *San Antonio de Gibraltar* when it was founded in 1592<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Gibraltar,_Venezuela)]</sup>. It may have only been renamed *Gibraltar* after Venezuelan independence in 1811<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Venezuelan_Independence)]</sup>
 
 * Changed **Gran Granada** to **Granada**.<br>
-While the settlement is sometimes known as *La Gran Granada*, the Nicaraguan Native American settlement was renamed *Grenada* since the Spanish occupation of 1524<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Granada,_Nicaragua)]</sup>.
+While the settlement is sometimes known as *La Gran Granada*, the Nicaraguan Native American settlement has been renamed *Grenada* since the Spanish occupation of 1524<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Granada,_Nicaragua)]</sup>.
 
 * Changed **Grand Bahama** to **West End**.<br>
 *Bahama* was the Lucayan name for the island from 500–800 AD to before c. 1520, and it was not renamed *Grand Bahama* until c. 1670<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/The_Bahamas)]</sup>, but the settlement is called *West End*, and has been the island's capital since 1632<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/West_End,_Bahamas)]</sup>.
@@ -82,4 +82,4 @@ The area/settlement of *Port Royal* was named *Caguay* (English: *Cagway*) when 
 The Archaic Spanish rendering of *Puerto Bello* is *Portobelo*<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Portobelo,_Col%C3%B3n)]</sup>.
 
 * Changed **Puerto Principe** to **Santa Maria del Puerto Principe**.<br>
-The full name of *Puerto Principe* was *Santa María del Puerto del Príncipe*, which was the settlement's name since it was founded in 1514 until it was renamed *Camagüey* after Cuban independence in 1898<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Camag%C3%BCey)]</sup>.
+The full name of *Puerto Principe* was *Santa María del Puerto del Príncipe*, which was the settlement's name from when it was founded in 1514 until it was renamed *Camagüey* after Cuban independence in 1898<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Camag%C3%BCey)]</sup>.
