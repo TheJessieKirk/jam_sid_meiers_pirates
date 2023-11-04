@@ -51,3 +51,6 @@ The Taíno settlement of Yaguana was not fully occupied by the French or renamed
 
 * Changed **Maracaibo** to **Nueva Zamora de Maracaibo**.<br>
 The settlement's name was originally *Maracaibo* when it was founded in 1569, but it was renamed *Nueva Zamora de Maracaibo* when it was re-founded in 1574, after being destroyed by the Anũ (Paraujano) in 1572<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Maracaibo)]</sup>. The settlement may not have been renamed *Maracaibo* until after Venezuelan Independence of 1811<sup>[English Wikipedia](https://en.wikipedia.org/wiki/Venezuelan_Independence)]</sup> (which Maracaibo did not join until 1821)<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Maracaibo)]</sup>.
+
+* Changed **Margarita** to **La Asunción**.<br>
+*Isla de Margarita* has been the European name for the island since 1498<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Margarita_Island)]</sup>, but the settlement was called *Espíritu Santo* before 1562. It was renamed *La Asunción* when it was re-founded in 1566, after being destroyed by the English in 1565. It has been the island's main focus of settlement since then<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/La_Asunci%C3%B3n)]</sup>.
