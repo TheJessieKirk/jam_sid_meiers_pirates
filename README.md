@@ -137,11 +137,17 @@ The Nahuatl name for *Aztec* is *Nahuatl*<sup>[[English Wikipedia](https://en.wi
 * Changed **Inca** to **Tawantinsuyu**.<br>
 The Runasimi name for *Inca* is *Tawantinsuyu*<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Inca_Empire)]</sup>. Using Native American names for themselves seems more respectful.
 
-* Changed **Jamaica Channel** to **St. James Channel**.<br>
-The first European name for the island of *Jamaica* was *Santiago* since 1494. The island was not renamed *Jamaica* until 1655<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Jamaica)]</sup>. So I assume the channel would have been called *Canal de Santiago* (or *St. James Channel* in English).
+* Changed **Jamaica** to **Santiago** and **Jamaica Channel** to **St. James Channel**.<br>
+The first European name for the island of *Jamaica* was *Santiago* from 1494. The island was not renamed *Jamaica* until 1655<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Jamaica)]</sup>. So I assume the channel would have been called *Canal de Santiago* (or *St. James Channel* in English).
 
 * Changed **Mission** to **Reduction**.<br>
 Jesuit colonial settlements in the Americas were called *reductions* rather than *missions*<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/Reductions)]</sup>.
 
 * Changed **New Andalusia** to **Nueva Andalucía**.<br>
 The Spanish name for *New Andalusia* is *Nueva Andalucía*<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/New_Andalusia_Province)]</sup>.
+
+* Changed **New Spain** to **Nueva España**.<br>
+The Spanish name for *New Spain* is *Nueva España*<sup>[[English Wikipedia](https://en.wikipedia.org/wiki/New_Spain)]</sup>.
+
+## Other Names
+* Fixed some missing links in the Pirate-o-Pedia.
